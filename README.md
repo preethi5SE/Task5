@@ -64,7 +64,7 @@ Dependencies
 To run this project, install the following Python libraries:
 pip install pandas numpy scikit-learn nltk seaborn matplotlib tensorflow
 
-pip install pandas numpy scikit-learn nltk seaborn matplotlib tensorflow
+
 
 How to Run
 
