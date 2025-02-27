@@ -61,6 +61,7 @@ Demonstrated the working of the model using sample inputs.
 Dependencies
 
 To run this project, install the following Python libraries:
+pip install pandas numpy scikit-learn nltk seaborn matplotlib tensorflow
 
 pip install pandas numpy scikit-learn nltk seaborn matplotlib tensorflow
 
