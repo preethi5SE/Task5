@@ -48,7 +48,8 @@ Compared different models to select the best-performing classifier.
 
 5. Model Evaluation
 
-Used confusion matrix and ROC curves for evaluation.
+Used confusion matrix for evaluation.
+
 
 Hyperparameter tuning and cross-validation.
 
@@ -76,8 +77,16 @@ Evaluate model performance.
 Predict categories for new complaints.
 
 Results
+![image](https://github.com/user-attachments/assets/2714d733-d3b8-429c-b151-8fb990395f46)
+![image](https://github.com/user-attachments/assets/7af404aa-8f57-49d5-a9bf-d561fe634241)
+![image](https://github.com/user-attachments/assets/4ca9877f-e581-45c4-ab3b-8c1cddec90de)
+![image](https://github.com/user-attachments/assets/ab940cf3-e86f-41d4-84ae-c4f864c2d429)
+![image](https://github.com/user-attachments/assets/db4ad530-f611-4963-a23b-9b35e9aaa1bb)
 
-The best-performing model achieves an accuracy of 97%.
+
+
+
+The best-performing model achieves an accuracy of 97.4%.
 
 The classification results demonstrate effective text classification for consumer complaints.
 
